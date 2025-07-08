@@ -2,6 +2,20 @@
 #include <stdio.h>
 using namespace std;
 
+/**
+ * @brief Demonstrates basic array operations in C++.
+ *
+ * This main function covers:
+ * - Declaring and initializing integer arrays.
+ * - Assigning values to specific array indices.
+ * - Initializing an array with a list of values.
+ * - Printing array elements using both traditional and range-based for loops.
+ * - Demonstrating the use of sizeof to get the size of an array.
+ * - Accessing and printing specific array elements.
+ * - Using both C++ (cout) and C (printf) style output.
+ *
+ * @return int Returns 0 upon successful execution.
+ */
 int main()
 {
     /* Declaring an integer array and initialising the values to each index*/
