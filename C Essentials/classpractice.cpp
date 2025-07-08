@@ -2,6 +2,12 @@
 
 using namespace std;
 
+/**
+ * @class Rectangle
+ * @brief Represents a rectangle with length and breadth.
+ *
+ * Provides methods to set and get dimensions, calculate area and perimeter.
+ */
 class Rectangle
 {
 private:
