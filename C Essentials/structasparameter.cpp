@@ -15,7 +15,7 @@ struct Rectangle *fun()
 {
     struct Rectangle *p;
     p=new Rectangle;
-    // p=(struct Rectangle *)malloc(sizeof(struct Rectangle));
+    // p=(struct Rectangle *)malloc(sizeof(struct Rectangle)); // In C, you would use malloc to allocate memory for a struct
     p->length = 15;
     p->breath = 7;
 
